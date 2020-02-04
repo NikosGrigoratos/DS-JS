@@ -1,0 +1,9 @@
+Username: GvoDP87XvD
+
+Database name: GvoDP87XvD
+
+Password: uCcAmqaSq8
+
+Server: remotemysql.com
+
+Port: 3306
